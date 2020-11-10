@@ -1,3 +1,3 @@
 # HELLO-WORLD
-nothing to see in this repository
-Mahir here and nothing else to say
+nothing to see in this repository.
+Mahir here and nothing else to say.
